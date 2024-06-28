@@ -1,2 +1,3 @@
-# DnD-Bot
-The program to help DMs lead DnD games.
+# Uroboros-bot
+The program to help DMs (Unlucky Melon etc) lead the games.
+
